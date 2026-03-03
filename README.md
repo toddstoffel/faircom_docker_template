@@ -1,0 +1,1 @@
+# faircom_docker_template
